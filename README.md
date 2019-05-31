@@ -1,2 +1,1 @@
-# spring-boot-sample-web-static
-c
+# spring-boot-sample-web-staticc
